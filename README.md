@@ -1,3 +1,3 @@
-# solidworks-designs
+# Solidworks Designs
 
 CAD Designs
