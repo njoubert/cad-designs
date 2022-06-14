@@ -1,7 +1,4 @@
-# Solidworks Designs
-
-CAD Designs
-
+# CAD Designs
 
 ## Relevant Software
 
