@@ -12,7 +12,7 @@
 
 ## Ultimaker Cura
 
-The "profile" is the height of layers. The finer we go, the nicer our print looks since 
+The "profile" is the height of layers.
 
 ## PLA
 
