@@ -1,30 +1,27 @@
 # CAD Designs
 
-## Links
+## Software
 
-* https://www.mpselectmini.com/
-* https://www.reddit.com/r/MPSelectMiniOwners/
+* [Solidworks](https://www.solidworks.com/)
+* [SketchUp](https://www.sketchup.com/industries/3d-printing)
+* [Ultimaker CURA Slicer](https://ultimaker.com/software/ultimaker-cura)
+* [Repetier Slicer](https://www.repetier.com/)
 
-## Relevant Software
-
-* Solidworks
-* Ultimaker CURA Slicer
-
-## Monoprice Select Mini aka Malyan M200
+## Monoprice Select Mini aka Malyan M200 Links
 
 * [Reddit FAQ](https://www.reddit.com/r/MPSelectMiniOwners/comments/6thy9t/read_this_first_updated/)
 * [GDoc by Ethan Anderson](https://docs.google.com/document/d/1HJaLIcUD4oiIUYu6In7Bxf7WxAOiT3n48RvOe5pvSHk/edit)
 * [MPSelectMini Wiki](https://mpselectmini.com/)
 
-## Ultimaker Cura
+## Ultimaker Cura Notes
 
 The "profile" is the height of layers.
 
-## PLA
+## PLA Notes
 
 [MatterHackers](https://www.matterhackers.com/articles/how-to-succeed-when-printing-in-pla)
 
-## ABS
+## ABS Notes
 
 Warping and difficulty to stick is the biggest issue.
 Parts tend to shrink when cooling so dimensional accuracy is a challenge.
@@ -41,7 +38,7 @@ Simplify3D:
 * Extruder of 220-250C
 * Ventilation matters, fumes come off.
 
-## Notes
+## Journal
 
 
 ### 2022-06-18
