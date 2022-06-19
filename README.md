@@ -58,7 +58,8 @@ I'm having some dimensional accuracy issues, not so sure why. Trent's recommenda
 * crappy printer with slop in bearings, etc
 * could be over-extrusion
 
-https://www.reddit.com/r/mpminidelta/comments/a3vk5n/prints_come_out_the_wrong_size/
-https://www.reddit.com/r/mpminidelta/comments/a4nqe3/dimensional_accuracy/
+* https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/
+* https://www.reddit.com/r/mpminidelta/comments/a3vk5n/prints_come_out_the_wrong_size/
+* https://www.reddit.com/r/mpminidelta/comments/a4nqe3/dimensional_accuracy/
 
 
