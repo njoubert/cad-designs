@@ -12,9 +12,9 @@
 
 ## Monoprice Select Mini aka Malyan M200
 
-[Reddit FAQ](https://www.reddit.com/r/MPSelectMiniOwners/comments/6thy9t/read_this_first_updated/)
-[GDoc by Ethan Anderson](https://docs.google.com/document/d/1HJaLIcUD4oiIUYu6In7Bxf7WxAOiT3n48RvOe5pvSHk/edit)
-[MPSelectMini Wiki](https://mpselectmini.com/)
+* [Reddit FAQ](https://www.reddit.com/r/MPSelectMiniOwners/comments/6thy9t/read_this_first_updated/)
+* [GDoc by Ethan Anderson](https://docs.google.com/document/d/1HJaLIcUD4oiIUYu6In7Bxf7WxAOiT3n48RvOe5pvSHk/edit)
+* [MPSelectMini Wiki](https://mpselectmini.com/)
 
 ## Ultimaker Cura
 
