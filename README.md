@@ -40,6 +40,14 @@ Simplify3D:
 
 ## Journal
 
+### 2022-06-25
+
+Installed the Overture white PLA filament and the included print bed.
+
+Youtubing around, i realize three big limitations of the MP Select Mini:
+* a tiny print bed. many others do 300m x 300m x 400m, this only does 120x120x120 and the edge 10mm is garbage
+* the layer quality is low. you can really see every individual layer. more expensive printers do a much better job
+* it cant really do ABS. You want an enclosed printer and a heated bed that gets much much hotter.
 
 ### 2022-06-18
 
